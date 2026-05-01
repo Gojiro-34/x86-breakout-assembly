@@ -26,3 +26,4 @@ A fully working Breakout-style game built in x86 Assembly using BIOS interrupts.
 
 1. Install NASM
 2. Assemble:
+3. Run in DOSBox or emulator
